@@ -1,6 +1,10 @@
 # Quiz-onC
 A quiz game on C language
 
+
+Please run it on Turbo C++ some of the functions will not support in other platforms 
+Strongly recommended to run it on turbo C++
+
 ANSWERS OF QUESTION 
 1 - B
 2 - D
